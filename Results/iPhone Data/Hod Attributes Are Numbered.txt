@@ -1,0 +1,19 @@
+The data is recorded like so (1-9):
+
+Accel X, Accel Y, Accel Z, Gyro X, Gyro Y, Gyro Z, Mag X, Mag Y, Mag Z
+
+Then 5 different time domain functions are run over all of the same labels in a window to make an attribute.
+
+So attribute 1 is the mean(Accel X), 2 is std(Accel X), 3 is sum(abs(Accel X)), 4 is sum(Accel X^2),
+5 is max(Accel X), 6 is mean(Accel Y), 7 is std(Acccel Y).....
+
+Common ones:
+
+45 - max(Mag Z)
+20 - max(Gyro X)
+43 - sum(abs(Mag Z))
+8 - sum(abs(Accel Y))
+7 - std(Accel Y)
+42 - std(Mag Z)
+26 - mean(Gyro Z)
+11 - mean(Accel Z)

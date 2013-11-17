@@ -1,0 +1,3 @@
+The original dataset can be found at http://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring
+
+We took these datasets and sampled and analyzed as documented in our paper.

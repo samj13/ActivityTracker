@@ -1,0 +1,10 @@
+Length of Training Data: 8074
+Length of Test Data: 2018
+Max Specified Depth: 25
+Train Time: 19733.984000205994
+train accuracy: 0.9786970522665346
+the overall accuracy with full depth 25 no pruning is:  0.8681863230921705
+the overall accuracy with depth 16 is: 0.8652130822596631
+the overall accuracy with depth 10 is: 0.8533201189296333
+the overall accuracy with depth 6 is: 0.8434093161546086
+the overall accuracy with depth 3 is: 0.6774033696729436

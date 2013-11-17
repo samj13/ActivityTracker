@@ -1,0 +1,65 @@
+Length of Training Data: 4253
+Length of Test Data: 2126
+Max Specified Depth: 40
+Train Time: 246.37800002098083
+train accuracy: 1.0
+the overall accuracy with full depth 9 no pruning is:  0.9967074317968015
+the overall accuracy with depth 7 is: 0.9952963311382879
+the overall accuracy with depth 5 is: 0.9929444967074318
+the overall accuracy with depth 3 is: 0.9840075258701787
+the overall accuracy with depth 1 is: 0.9360301034807149
+
+
+
+Height 1 :
+
+30 : 11.615375103161151
+Height 2 :
+
+30 : 11.154573922894775
+3 : 10.430356017950931
+
+
+Height 3 :
+
+45 : 1.0
+2 : 9.080072684672365
+2 : 10.034313819985208
+
+
+Height 4 :
+
+36 : 5.8772751901725195
+35 : 9.057916582366559
+2 : 9.56638875397709
+1 : 8.899436184500704
+
+
+Height 5 :
+
+30 : 5.906890595608519
+22 : 9.059398747323032
+34 : 5.554588851677638
+25 : 7.433376685599827
+
+
+Height 6 :
+
+34 : 3.0
+26 : 5.700439718141093
+30 : 7.167073946909643
+
+
+Height 7 :
+
+31 : 5.190012103541999
+
+
+Height 8 :
+
+45 : 3.674386971523201
+
+
+Height 9 :
+
+20 : 3.1699250014423126

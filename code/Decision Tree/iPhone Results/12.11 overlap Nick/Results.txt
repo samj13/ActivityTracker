@@ -1,0 +1,19 @@
+Length of Training Data: 4880
+Length of Test Data: 2440
+Max Specified Depth: 40
+Train Time: 290.0720000267029
+train accuracy: 1.0
+the overall accuracy with full depth 2 no pruning is:  0.9987704918032787
+the overall accuracy with depth 2 is: 0.9987704918032787
+the overall accuracy with depth 2 is: 0.9987704918032787
+the overall accuracy with depth 1 is: 0.9987704918032787
+the overall accuracy with depth 1 is: 0.9987704918032787
+
+
+
+Height 1 :
+
+34 : 11.613584145182553
+Height 2 :
+
+44 : 11.606867837374152
